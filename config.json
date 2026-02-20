@@ -7,15 +7,13 @@
     "AMDIN_NAME": "Lương Trường Khôi",
     "keyRent": "Lunar",
     "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "PREFIX": "/",
     "box_admin": "",
     "ADMINBOT": [
-        "",
-        ""
+        "100080004827045"
     ],
     "NDH": [
-        "",
-        ""
+        "100080004827045"
     ],
     "autoCleanCache": {
         "Enable": true,
